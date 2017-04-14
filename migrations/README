@@ -1,0 +1,2 @@
+#celery
+#Rabbitmq user:wangyu  password:Wy123456  vhost:flask_host  permissions:".*" ".*" ".*"
